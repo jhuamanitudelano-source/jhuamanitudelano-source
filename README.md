@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hola, soy Jhon Samuel Huamani Tudelano
 
-<!--
-**jhuamanitudelano-source/jhuamanitudelano-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería de Sistemas**
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante interesado en el desarrollo de software, programación y tecnologías web. Actualmente estoy fortaleciendo mis conocimientos en desarrollo de aplicaciones, control de versiones y arquitectura de software.
+
+## 📚 Actualmente estoy aprendiendo
+
+* 🖥️ Desarrollo de software
+* 🟢 Node.js
+* ⚡ Express
+* 🔧 Git y GitHub
+* 💻 JavaScript
+* 🏗️ Arquitectura de Software
+* 🧪 Pruebas de software
+
+## 🎯 Mis objetivos
+
+* Mejorar mis habilidades de programación.
+* Aprender buenas prácticas de desarrollo de software.
+* Trabajar con Git y GitHub de manera profesional.
+* Comprender y aplicar conceptos de arquitectura de software.
+* Construir proyectos que pueda incorporar a mi portafolio.
+
+## 📂 Proyectos
+
+Aquí iré publicando mis proyectos y trabajos académicos realizados durante mi formación.
+
+## 📫 Contacto
+
+* GitHub: [@jhonhuamani](https://github.com/jhonhuamani)
+* N° celular 953662512
+
+---
+
+⭐ Gracias por visitar mi perfil.
