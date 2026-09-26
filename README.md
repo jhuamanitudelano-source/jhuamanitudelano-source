@@ -30,7 +30,7 @@ Aquí iré publicando mis proyectos y trabajos académicos realizados durante mi
 
 ## 📫 Contacto
 
-* GitHub: [@jhonhuamani](https://github.com/jhonhuamani)
+* GitHub: [@jhonhuamani](https://github.com/jhuamanitudelano-source)
 * N° celular 953662512
 
 ---
